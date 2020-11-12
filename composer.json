@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "illuminate/database": "^6.0 || ^7.0 || ^8.0",
+        "illuminate/database": "^5.6 || ^6.0 || ^7.0 || ^8.0",
         "illuminatech/array-factory": "^1.2.2"
     },
     "require-dev": {
